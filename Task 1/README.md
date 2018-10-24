@@ -12,3 +12,9 @@ _On clicking URL- 'http://localhost:8080/', a static html page will be displayed
 
 _Task Deliverable: Screenshot of the static html page and the URL of the GitHub repository._
 
+**Technologies used**:
+* ExpressJS 
+* NodeJS
+
+**To run expressjs server**
+First run `npm install` to install necessary packages. Next run `npm index.js`
