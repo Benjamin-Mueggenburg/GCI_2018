@@ -17,4 +17,4 @@ _Task Deliverable: Screenshot of the static html page and the URL of the GitHub 
 * NodeJS
 
 **To run expressjs server**
-First run `npm install` to install necessary packages. Next run `npm index.js`
+First run `npm install` to install necessary packages. Next run `node index.js`
